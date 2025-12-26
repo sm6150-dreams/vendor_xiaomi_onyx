@@ -1044,7 +1044,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/disp0/mdss_dsi_o10u_42_02_0a_dsc_vid/mi_gc_3.txt:$(TARGET_COPY_OUT_ODM)/etc/disp0/mdss_dsi_o10u_42_02_0a_dsc_vid/mi_gc_3.txt \
     vendor/xiaomi/onyx/proprietary/odm/etc/display/qdcm_calib_data_xiaomi_o10u_36_02_0b_video_mode_dsc_dsi_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_xiaomi_o10u_36_02_0b_video_mode_dsc_dsi_panel.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/display/qdcm_calib_data_xiaomi_o10u_42_02_0a_video_mode_dsc_dsi_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_xiaomi_o10u_42_02_0a_video_mode_dsc_dsi_panel.json \
-    vendor/xiaomi/onyx/proprietary/odm/etc/dolby/dax-default-spatializer.xml:$(TARGET_COPY_OUT_ODM)/etc/dolby/dax-default-spatializer.xml \
     vendor/xiaomi/onyx/proprietary/odm/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_ODM)/etc/dolby/dax-default.xml \
     vendor/xiaomi/onyx/proprietary/odm/etc/init.panel_info.sh:$(TARGET_COPY_OUT_ODM)/etc/init.panel_info.sh \
     vendor/xiaomi/onyx/proprietary/odm/etc/init/android.hardware.authsecret-service.nxp.rc:$(TARGET_COPY_OUT_ODM)/etc/init/android.hardware.authsecret-service.nxp.rc \
@@ -1653,7 +1652,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/vendor/etc/display/video_alignments.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/video_alignments.json \
     vendor/xiaomi/onyx/proprietary/vendor/etc/displayconfig/display_id_4630947173316895379.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947173316895379.xml \
     vendor/xiaomi/onyx/proprietary/vendor/etc/displayconfig/display_id_4630947258895476883.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947258895476883.xml \
-    vendor/xiaomi/onyx/proprietary/vendor/etc/dolby/dax-default-spatializer.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default-spatializer.xml \
     vendor/xiaomi/onyx/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
     vendor/xiaomi/onyx/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
     vendor/xiaomi/onyx/proprietary/vendor/etc/encoder.serialized.8750.O3.bin:$(TARGET_COPY_OUT_VENDOR)/etc/encoder.serialized.8750.O3.bin \
